@@ -1,2 +1,5 @@
 # Algoritmos
-Esse repositório versiona meus códigos de estudos de Algoritmos, ou até mesmo códigos de dúvidas do StackOverFlow.
+
+## Abaixo tem o indice dos problemas com seus devidos especificadores.
+
+### Problema 1: Procurar número em um vetor, caso não ache, procure o número mais próximo. (Resolução low code off)
