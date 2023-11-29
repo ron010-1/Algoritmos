@@ -1,5 +1,5 @@
 # Algoritmos
 
-## Abaixo tem o indice dos problemas com seus devidos especificadores.
+## Repostório simples com a ideia de versionar códigos de diversos algoritmos, seja de Plataformas como a BeeCrowd ou até mesmo competições.
 
-### Problema 1: Procurar número em um vetor, caso não ache, procure o número mais próximo. (Resolução low code off)
+### Caso deseje participar do Clube da Programação acesse o site: http://cdp.dainf.ct.utfpr.edu.br/
