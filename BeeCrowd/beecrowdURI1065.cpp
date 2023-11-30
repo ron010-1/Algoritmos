@@ -4,7 +4,7 @@
 
 int main(){
     setlocale(LC_ALL, "Portuguese");
-    int i=6, count=0, num;
+    int i=5, count=0, num;
 
     while(i--){
         scanf("%d", &num);
